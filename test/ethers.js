@@ -1,5 +1,5 @@
 import { expect } from "chai";
-imprt { ethers } from "hardhat";
+import { ethers } from "hardhat";
 import { NFT__factory } from "../typechain-types";
 
 describe("NFT Test", function() {
